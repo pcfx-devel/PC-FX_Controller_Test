@@ -18,12 +18,12 @@ colours.
 For joypads and mice, a pictorial view of the controls will be displayed, indicating which buttons
 are pressed (or not pressed), as well as directional movement.
 
-__Joypad display:__
+### Joypad display:
 
 ![Joypad](images/joypad.png)
 
 
-__Mouse display:__
+### Mouse display:
 
 ![Mouse](images/mouse.png)
 
